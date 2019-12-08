@@ -1,0 +1,15 @@
+C:\Users\kira0\Source\Repos\EjercicioKury\EjercicioKury\bin\Debug\EjercicioKury.exe.config
+C:\Users\kira0\Source\Repos\EjercicioKury\EjercicioKury\bin\Debug\EjercicioKury.exe
+C:\Users\kira0\Source\Repos\EjercicioKury\EjercicioKury\bin\Debug\EjercicioKury.pdb
+C:\Users\kira0\Source\Repos\EjercicioKury\EjercicioKury\bin\Debug\TooSharp.Core.dll
+C:\Users\kira0\Source\Repos\EjercicioKury\EjercicioKury\bin\Debug\MySql.Data.dll
+C:\Users\kira0\Source\Repos\EjercicioKury\EjercicioKury\bin\Debug\Humanizer.dll
+C:\Users\kira0\Source\Repos\EjercicioKury\EjercicioKury\bin\Debug\TooSharp.Core.xml
+C:\Users\kira0\Source\Repos\EjercicioKury\EjercicioKury\obj\Debug\EjercicioKury.csprojAssemblyReference.cache
+C:\Users\kira0\Source\Repos\EjercicioKury\EjercicioKury\obj\Debug\EjercicioKury.AgregarEditar.resources
+C:\Users\kira0\Source\Repos\EjercicioKury\EjercicioKury\obj\Debug\EjercicioKury.frmProductos.resources
+C:\Users\kira0\Source\Repos\EjercicioKury\EjercicioKury\obj\Debug\EjercicioKury.Properties.Resources.resources
+C:\Users\kira0\Source\Repos\EjercicioKury\EjercicioKury\obj\Debug\EjercicioKury.csproj.GenerateResource.cache
+C:\Users\kira0\Source\Repos\EjercicioKury\EjercicioKury\obj\Debug\EjercicioKury.csproj.CopyComplete
+C:\Users\kira0\Source\Repos\EjercicioKury\EjercicioKury\obj\Debug\EjercicioKury.exe
+C:\Users\kira0\Source\Repos\EjercicioKury\EjercicioKury\obj\Debug\EjercicioKury.pdb
